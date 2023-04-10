@@ -3,6 +3,4 @@
 author: SJ
 
 ### Folders
-- week[1-16]: exercise notebook
-- practice: random practice codes
-- etc: anything
+- week[1-16]: exercise notebook for each week
